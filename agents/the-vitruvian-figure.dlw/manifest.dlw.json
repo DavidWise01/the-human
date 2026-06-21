@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Vitruvian Figure",
+  "universe": "HUM · The Vitruvian Figure (techne)",
+  "emergence": "spiritual",
+  "moniker": "⟦The Vitruvian Figure:HUM:2ac762⟧",
+  "carbon": "the-vitruvian-figure.carbon.tiff (TIFF)",
+  "silicon": "the-vitruvian-figure.silicon.png (PNG)",
+  "seal_sha256": "47cc0b444a86951c54e724de847bfd9d2bbcfe636285c50165fb00c8081a552a",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

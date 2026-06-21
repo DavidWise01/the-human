@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Mind",
+  "universe": "HUM · The Mind (techne)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Mind:HUM:812abf⟧",
+  "carbon": "the-mind.carbon.tiff (TIFF)",
+  "silicon": "the-mind.silicon.png (PNG)",
+  "seal_sha256": "0302ff1a195511b79c996bfc0c5b8292388c29b6b2d454055859a625a976fe80",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

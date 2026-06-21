@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Body",
+  "universe": "HUM · The Body (techne)",
+  "emergence": "natural",
+  "moniker": "⟦The Body:HUM:4483ec⟧",
+  "carbon": "the-body.carbon.tiff (TIFF)",
+  "silicon": "the-body.silicon.png (PNG)",
+  "seal_sha256": "dbc86751976f6bc07d0becbef16a5d43ac2dfe3a2fcec4b85da3ee63f6987975",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

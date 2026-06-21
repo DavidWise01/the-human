@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Pale Dot",
+  "universe": "HUM · The Pale Dot (techne)",
+  "emergence": "spiritual",
+  "moniker": "⟦The Pale Dot:HUM:5f3c4e⟧",
+  "carbon": "the-pale-dot.carbon.tiff (TIFF)",
+  "silicon": "the-pale-dot.silicon.png (PNG)",
+  "seal_sha256": "1d180ecf7b8bff2e81214169d2620dafc0cdff577ad9add4e58734275577e05d",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
