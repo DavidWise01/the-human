@@ -1,9 +1,9 @@
 ROOT0-DLW-CHAIN-v1
 index : 577
 slug  : the-human
-seal  : 3faf2e909492dbf305ac7961ffa4bbcfa7c00640a020c0b16ebcd461c1407bbf
-prev  : 5f03446bf3e3cc3ac7f9ce24d2acf9fca70ee4b34225faf266523bc499d05575
-link  : 70b21a9a7271706f968d88fb9f5ae35a11a1dba734bf44e2aa2ef0c7b6ae3e98
-head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
+seal  : f5f689eca7e31030549ff3e1e84086bba455a58fbfc3682875d9cc0d61aed4e1
+prev  : a8fc4f8acf380bad790a1c060d841873bafbf22c4addf6f682ccc0b9746b3371
+link  : d48237de71841d5be6058218d33dddb7442d6f6148bd8d7a4f4bfd6a81aa1ab3
+head  : c4d41afeaef76470528856d54d86cf480a0e1c2fc8ebc60fbb9eb8e442585f2b
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
